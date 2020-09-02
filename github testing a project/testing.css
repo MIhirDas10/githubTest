@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#icon_1{
+    color: orange;
+    font-size: 40px;
+}
+
+.icon{
+    background: orangered;
+    color: wheat;
+}
